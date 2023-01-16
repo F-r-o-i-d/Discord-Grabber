@@ -1,4 +1,7 @@
 # Read Me
+
+<img src="client/icone.png" style="width:150px">
+
 ## What is this?
 This token grabber inject an dropper inside discord_desktop_code module (wich is runned at the startup of the app) to download a secondary exe wich is the grabber (barely undetectable by antivirus) and send the token to a webhook
 ## Is it safe?
